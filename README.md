@@ -11,6 +11,8 @@
 <img src="https://user-images.githubusercontent.com/45085513/220547871-397bae77-01d2-458c-bcdb-34fcfe0a72cc.jpg" height="200"/>   
 
 
-플레이 화면 부분 추출    
+플레이 화면 부분 추출(SR)    
 <img src="https://user-images.githubusercontent.com/45085513/220548540-1db78426-b855-4087-8fe9-1d32b2abe82f.gif" height="200"/>   
 
+플레이 화면 부분 추출(AR)    
+<img src="https://user-images.githubusercontent.com/45085513/220549468-7f231bf7-2055-41b2-a877-4b4d3c7ff5a6.gif" height="200"/>   
