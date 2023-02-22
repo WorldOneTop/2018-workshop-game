@@ -1,6 +1,6 @@
 # shadow gun (2018 학술 동아리 - 워크샵 프로젝트)
 > Android Studio로 외부 라이브러리 없이 제작한 게임, 총을 이용해서 적을 떨어뜨리거나 HP를 모두 닳게해서 이기는 게임  
-공대 학술제 서공제 입상작
+공대 학술제 "서공제" 입상작
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
 
@@ -17,3 +17,8 @@
 
 플레이 화면 부분 추출(AR)    
 <img src="https://user-images.githubusercontent.com/45085513/220549468-7f231bf7-2055-41b2-a877-4b4d3c7ff5a6.gif" height="200"/>   
+
+
+서공제 수상 상품 수여    
+<img src="https://user-images.githubusercontent.com/45085513/220550571-bbe51391-5c9b-441f-b9ec-0126bdeb9e9d.png" height="200"/>   
+이외 파일(코드 등) 분실 
